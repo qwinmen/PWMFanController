@@ -8,6 +8,7 @@ https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM
 PWMAllPins
 http://playground.arduino.cc/Main/PWMallPins
 
-
+NPN-PNP Driver Example
+https://www.baldengineer.com/pwm-3-pin-pc-fan-arduino.html
 
 
